@@ -8,12 +8,11 @@ body {
 }
 
 button {
-  width: 20%;
-  height: 50px;
+  width: 30%;
+  height: 70px;
   background-color: #EE0481;
   border-radius: 4px;
   color: #fff;
   font-size: 18px;
   font-weight: bold;
-
 }
