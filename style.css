@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+button {
+  width: 20%;
+  height: 50px;
+  background-color: #EE0481;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+
+}
